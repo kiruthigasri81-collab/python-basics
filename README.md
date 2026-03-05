@@ -1,23 +1,14 @@
 # Python Basics
 
-This repository contains my daily Python practice programs.
-
----
-
-## Day 1
-- Even and Odd Program  
-File: [even_odd.py](even_odd.py)
-
-## Day 2
-- Prime Number Program  
-File: [prime.py](prime.py)
-
----
-
-## Output Screenshot
-
-![Prime Output](prime.png)
-
----
-
-I am learning Python step by step 🚀
+# Python Basics Practice
+│
+├── programs
+│   ├── even_odd.py
+│   ├── prime.py
+│   └── palindrome.py
+│
+├── outputs
+│   ├── prime.png
+│   └── palindrome.png
+│
+└── README.md
